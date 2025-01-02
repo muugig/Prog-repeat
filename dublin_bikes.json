@@ -1,0 +1,69 @@
+
+{
+"type":"FeatureCollection",
+"features":[
+    {
+        "type":"Feature",
+        "geometry":{"type":"Point","coordinates":[-6.262500762939453,53.34092712402344]},
+        "properties":{
+            "system_id":"dublin_bikes",
+            "station_id":"1",
+            "last_reported":1735797281,
+            "num_bikes_available":2,
+            "num_docks_available":29,
+            "is_installed":true,
+            "is_renting":true,
+            "is_returning":true,
+            "last_updated":1735797281,
+            "name":"CLARENDON ROW",
+            "short_name":"",
+            "address":"Clarendon Row",
+            "region_id":"",
+            "capacity":31,
+            "last_reported_dt":"2025-01-02 05:54:41"
+        }
+    },
+    {
+        "type":"Feature",
+        "geometry":{"type":"Point","coordinates":[-6.266801834106445,53.3440055847168]},
+        "properties":{
+            "system_id":"dublin_bikes",
+            "station_id":"10",
+            "last_reported":1735797446,
+            "num_bikes_available":12,
+            "num_docks_available":4,
+            "is_installed":true,
+            "is_renting":true,
+            "is_returning":true,
+            "last_updated":1735797446,
+            "name":"DAME STREET",
+            "short_name":"",
+            "address":"Dame Street",
+            "region_id":"",
+            "capacity":16,
+            "last_reported_dt":"2025-01-02 05:57:26"
+        }
+    },
+    {
+        "type":"Feature",
+        "geometry":{"type":"Point","coordinates":[-6.292040824890137,53.34710693359375]},
+        "properties":{
+            "system_id":"dublin_bikes",
+            "station_id":"100",
+            "last_reported":1735797248,
+            "num_bikes_available":16,
+            "num_docks_available":9,
+            "is_installed":true,
+            "is_renting":true,
+            "is_returning":true,
+            "last_updated":1735797248,
+            "name":"HEUSTON BRIDGE (SOUTH)",
+            "short_name":"",
+            "address":"Heuston Bridge (South)",
+            "region_id":"",
+            "capacity":25,
+            "last_reported_dt":"2025-01-02 05:54:08"
+        }
+    }
+]
+}
